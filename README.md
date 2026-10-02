@@ -83,7 +83,7 @@ No momento estou buscando oportunidades de vagas de estágio nas áreas de desen
 
 <div align="center">
 
-<sub>feito com carinho e <code>commits</code> · Ana Minas</sub>
+<sub>Obrigada por ver tudo - Ana Minas</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff009d,100:000000&height=120&section=footer" alt="Rodapé" />
 
