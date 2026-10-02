@@ -12,11 +12,13 @@
 
 ## ✦ sobre mim
 
-Sou a Ana, estudante técnica de desenvolvimento de sistemas.
-Gosto de transformar ideia em código e de aprender construindo, então este perfil vai crescendo junto com os meus projetos.
+Olá! Me chamo Ana Minas, tenho 17 anos, e atualmente estou estudando desenvolvimento de sistemas, estou buscando mais conhecimento na área de back-end. 
 
-Trabalho com **front-end** (HTML, CSS e JavaScript), e também com **Python**, **C++** e **PHP**.
-Uso **Git e GitHub** para versionar tudo o que faço.
+Atualmente estou realizando minha formação técnica no SENAI/SC, onde faço desenvolvimento de sistemas, com término previsto para dezembro de 2026. 
+
+Meu foco atual está voltado para o aprimoramento dos meus conhecimentos dentro da área, dando maior foco no back-end, mas também estudo com intensidade front-end. No momento estou estudado a linguagem Python, HTML e CSS, JAVASCRIPT, PHP e C++ mas em breve irei buscar conhecimento em JAVA e aprofundar meus conhecimentos nas linguagens C(C, C++ e C#). Também possuo um conhecimento em Git e Github, que estou buscando aprimorar mais a cada dia
+
+No momento estou buscando oportunidades de vagas de estágio nas áreas de desenvolvimento de software ou similares, tenho como propósito expandir meus conhecimentos, e também adquirir experiências de trabalho dentro da área.
 
 <br>
 
